@@ -17,7 +17,7 @@ Test First Ruby -- RSpec 3 Edition
 
 ### Set up instructions
 
-1. Fork this repo
+1. download railsintaller
 2. Clone your version of the repo to your local machine
 3. On your local machine, `cd` into the root folder of this repo in your terminal
 4. run `bundle install` to install all the gems this project needs.
