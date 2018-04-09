@@ -1,12 +1,12 @@
 ###team
 ###Tino sam #### Riana RC 
 #Madagascar
-hello-fait
-temperature-fait
-calculator-fait
-simon-says-fai
+hello-Done
+temperature-Done
+calculator-Done
+simon-says-Done
 ...
-...
+book-titles-Done
 ...
 #pour tester
 1- cd nom_du dossier
