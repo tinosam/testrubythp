@@ -1,18 +1,24 @@
+Ruby test for THP
+==========
+
 ###team
 ###Tino sam #### Riana RC 
 #Madagascar
-hello-Done
-temperature-Done
-calculator-Done
-simon-says-Done
-...
-book-titles-Done
-...
-#pour tester
-1- cd nom_du dossier
-2- rake
 
-Test First Ruby -- RSpec 3 Edition
+
+1. hello-Done
+2. temperature-done
+3. calculator-done
+4. simon-says-done
+5. ....
+6. book-titles-done
+7. ....
+
+#pour tester
+1. cd nom_du dossier
+2. rake
+
+Ruby test for THP
 ==========
 
 ### Set up instructions
@@ -22,11 +28,6 @@ Test First Ruby -- RSpec 3 Edition
 3. On your local machine, `cd` into the root folder of this repo in your terminal
 4. run `bundle install` to install all the gems this project needs.
 
-
-
-
-
-
 ### Credit
 
-This is forked from https://github.com/tinosam/testrubythp.git]
+https://github.com/tinosam/testrubythp.git]
